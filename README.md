@@ -3,7 +3,7 @@
 #### By Augustine Kadima Samuel
 
 ## Description
-{The website is about Sauti Sol, a music band that is located in Nairobi, Kenya. The band has managed to create a good number of hit songs, of which some are my favoriite, and I have shared them on the website so that you can listen and have fun too.The music I have shared is decent and one that represents the African culture. Through it you are going to learn and enjoy your interaction with the African culture }
+The website is about Sauti Sol, a music band that is located in Nairobi, Kenya. The band has managed to create a good number of hit songs, of which some are my favoriite, and I have shared them on the website so that you can listen and have fun too.The music I have shared is decent and one that represents the African culture. Through it you are going to learn and enjoy your interaction with the African culture. 
 
 ## Setup/Installation Requirements
 * Open your browser
@@ -13,13 +13,13 @@
 
 
 ## Known Bugs
-{I am working on the media query and should you encounter an problem while viewing the page on any device just know that I will be solving the problem soon }
+I am working on the media query and should you encounter an problem while viewing the page on any device just know that I will be solving the problem soon. 
 
 ## Technologies Used
-{I have used HTML and CSS to build this website. I used HTML to write content on the page and used CSS to style the page. I mostly used box shaddow and flex box to achieve my visual style}
+I have used HTML and CSS to build this website. I used HTML to write content on the page and used CSS to style the page. I mostly used box shaddow and flex box to achieve my visual style.
 
 ## Support and contact details
-{f you run into any issue while accessing the website or would like to contact me, kindly reach out to me for help through kadimasam@gmail.com
+If you run into any issue while accessing the website or would like to contact me, kindly reach out to me for help through kadimasam@gmail.com
 
 ### License
 MIT License

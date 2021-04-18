@@ -7,7 +7,7 @@ The website is about Sauti Sol, a music band that is located in Nairobi, Kenya. 
 
 ## Setup/Installation Requirements
 * Open your browser
-* Navigate to the search bar and type in the following address
+* Navigate to the search bar and type in the following address https://augustinekadima.github.io/Favorite-band/
 * Press enter
 * scroll down on the website to learn more about it
 

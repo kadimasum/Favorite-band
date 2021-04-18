@@ -17,10 +17,9 @@ body, html{
     
 }
 */
-.navContainer{
-    display: flex;
-    justify-content: flex-end;
-}
+
+
+
 .bandName{
     display: flex;
     flex-direction: column;
@@ -36,7 +35,7 @@ body, html{
     font-size: 20px;
     font-style: italic;
 }
-.about, .favoriteSongs, .otherSongs{
+.about, .hero, .alternative, .bioHero, .favoriteSongs, .otherSongs{
     background-color: rgb(255, 255, 255, .6) ;
     padding: 20px;
     border-radius: 20px;;
@@ -51,6 +50,10 @@ body, html{
 .artistLink{
     text-decoration: none;
     
+}
+.alternative img{
+    width: 700px;
+    height: auto;
 }
 .songsList{
     display: flex;

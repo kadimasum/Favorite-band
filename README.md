@@ -1,5 +1,5 @@
 # My Favorite Band
-#### This is a website that gives more information about my favourite band. It has a list of my favorite music and their biographies, 18th April, 2021
+#### This is a website that gives more information about my favourite band. It has a list of my favorite music and the biographies of the artists, 18th April, 2021
 #### By Augustine Kadima Samuel
 
 ## Description
